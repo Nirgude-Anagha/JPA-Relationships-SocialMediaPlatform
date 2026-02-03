@@ -1,3 +1,6 @@
+One To One Relationship - User & Profile
+
+
 SELECT * FROM POST;
 SELECT * FROM SOCIAL_GROUP ;
 SELECT * FROM SOCIAL_PROFILE ;
