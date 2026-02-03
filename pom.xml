@@ -8,7 +8,7 @@
         <version>4.0.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.social</groupId>
+    <groupId>com.social.media.platform</groupId>
     <artifactId>SocialMediaPlatform</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>SocialMediaPlatform</name>

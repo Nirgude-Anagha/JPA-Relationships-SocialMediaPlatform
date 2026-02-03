@@ -1,16 +1,15 @@
-package com.social.socialmediaplatform.model;
+package com.social.media.platform.model;
 
 import jakarta.persistence.*;
 
 @Entity
-public class Post {
+public class SocialProfile {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @ManyToOne
-    @JoinColumn(name = "user_id")
+    @OneToOne
+    @JoinColumn(name = "social_user")
     private SocialUser socialUser;
-
 }

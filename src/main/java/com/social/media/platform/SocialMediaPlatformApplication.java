@@ -1,4 +1,4 @@
-package com.social.socialmediaplatform;
+package com.social.media.platform;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
